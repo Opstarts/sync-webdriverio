@@ -1,6 +1,6 @@
 {
-  "name": "xolvio-sync-webdriverio",
-  "version": "8.0.0",
+  "name": "@opstarts/sync-webdriverio",
+  "version": "8.0.1",
   "description": "A sync version of WebdriverIO powered by Fibers",
   "keywords": [
     "webdriverio",
@@ -24,7 +24,7 @@
     "fibers": "^1.0.7",
     "meteor-promise": "^0.4.1",
     "underscore": "^1.8.3",
-    "wdio-sync": "^0.6.6",
+    "wdio-sync": "^0.6.10",
     "webdriverio": "^4.4.0",
     "xolvio-fiber-utils": "^2.0.3"
   }
