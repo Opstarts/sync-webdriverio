@@ -21,7 +21,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fibers": "^1.0.9",
+    "fibers": "^1.0.7",
     "meteor-promise": "^0.4.1",
     "underscore": "^1.8.3",
     "wdio-sync": "^0.6.10",
