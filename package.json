@@ -1,5 +1,5 @@
 {
-  "name": "@opstarts/sync-webdriverio",
+  "name": "sync-webdriverio",
   "version": "8.0.1",
   "description": "A sync version of WebdriverIO powered by Fibers",
   "keywords": [
