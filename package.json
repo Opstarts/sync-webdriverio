@@ -24,7 +24,7 @@
     "fibers": "^1.0.9",
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
-    "wdio-sync": "Opstarts/wdio-sync#c7039f95c1",
+    "wdio-sync": "Opstarts/wdio-sync#opstarts",
     "webdriverio": "^4.6.2",
     "xolvio-fiber-utils": "^2.0.3"
   }
